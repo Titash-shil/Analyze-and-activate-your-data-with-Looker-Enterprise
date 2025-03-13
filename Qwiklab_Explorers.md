@@ -13,8 +13,6 @@
  - ### Click the Develop tab and then select the fintech.
  - ### Open fintech.model file and paste the below code.
 ```
-
-
 # Place in `fintech` model
 explore: +loan_details {
     query: QwikLab_Explorers_task_2 {
@@ -57,7 +55,6 @@ explore: +loan_details {
       ]
     }
 }
-
 ```
 ---
 - ###  LAB TASK 2 🕹️
