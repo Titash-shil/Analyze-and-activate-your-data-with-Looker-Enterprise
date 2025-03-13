@@ -57,27 +57,26 @@ explore: +loan_details {
 }
 ```
 ---
-- ###  LAB TASK 2 🕹️
----
+- ###  **LAB TASK 2** 🕹️
 - Edit Visualization ➡️ Formatting ➡️ Conditional Formatting : `Enable` ➡️ Add Rule : Change the background color to `red`  & The value is greater than `3000000000` ➡️ Run ➡️ Save.
 - Create Dashboard Name as :  `Loan Insights`.
 - Save Title Name as :  `Total Amount of Outstanding Loans`.
 
 ---
 
-- ### LAB TASK 3 🕹️
+- ### **LAB TASK 3** 🕹️
 - Visualization Type : `pie chart`. 
 - Save Title Name as :  `Percentage of Outstanding Loans`.
 
 ---
 
-### LAB TASK 4 🕹️ 
+### **LAB TASK 4** 🕹️ 
 - Row Limit : `10`. ➡️ Visualization : `bar chart`.
 - Save Title Name as :  `Total Count of Outstanding Loans`.
 
 ---
 
-### LAB TASK 5 🕹️
+### **LAB TASK 5** 🕹️
 - Row Limit : `10`. ➡️ Visualization Type : `Table`. ➡️ Annual Income type : `Descending` ⬇️
 - Save Title Name as :  `Top 10 Customers by Highest Income`.
 
